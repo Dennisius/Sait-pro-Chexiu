@@ -1,0 +1,28 @@
+<html>
+<body>
+<b>Hello,</b> <i>world!</i>
+</body>
+</html>
+<br>
+My games
+<ul>
+<li> Ferma
+<li> Tetris
+</ul>
+<br>
+<ol>
+<li> 5
+<li> 55
+</ol>
+<br>
+<table border="1">
+<tr>
+<td> Familiya </td>
+<td> Imya </td>
+<td> Vasya </td>
+<td> Pupkin </td>
+</tr>
+<td>Ferma </td>
+<td>Tetris </td>
+</tr>
+</table>
