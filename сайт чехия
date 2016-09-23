@@ -1,0 +1,49 @@
+<html>
+<script type="text/javascript">
+    function show_text() {
+        alert('hi');
+    }
+    function show_pic() {
+        alert('bye')
+    }
+</script>
+<head> <link rel="stylesheet"  type="text/css" href="123243.css" </head>
+<body>
+
+<table width="100%" height="100%" border="1">
+
+<tr>
+<td width="50%" height="50%" onclick="show_text()"> 
+Poka
+</td>
+<td  onclick="show_text()"> 
+Privet 
+</td>
+</tr>
+
+<tr>
+<td colspan="2"> 
+<div id="c1">
+12345
+</div>
+<div id="c2">
+<img src="m.jpg">
+</div>
+</td>
+</tr>
+
+<div class="quiz">
+<div
+class="question">
+How old are you?
+</div>
+<input type="radio" name="answer"> 18</input>
+<input type="radio" name="answer"> 2</input>
+<input type="radio" name="answer"> 107</input>
+<input type="radio" name="answer"> 32</input>
+
+<button>
+Confirm
+</button>
+</div>
+
