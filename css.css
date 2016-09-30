@@ -1,0 +1,14 @@
+body {
+background-color: #31D076
+}
+
+.quiz
+{
+    margin:  auto;
+    border:2px solid black;
+    width:30%;
+    }
+img {
+  float: right;
+  margin: 20px;
+}
