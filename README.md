@@ -1,0 +1,2 @@
+kek
+saitik pro stranu
